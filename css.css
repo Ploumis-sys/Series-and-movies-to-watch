@@ -1,0 +1,40 @@
+*{
+    font-family:  "Lucida Handwriting", cursive;
+    font-size: 60px;
+    background-color:#6667AB;
+    color: #EFC050;
+}
+
+
+
+.sites_container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 300px;
+}
+
+.link-for-site {
+    display: inline-block;
+}
+
+
+
+.h1_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: aqua;
+   
+    
+}
+
+
+.listofbest{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
