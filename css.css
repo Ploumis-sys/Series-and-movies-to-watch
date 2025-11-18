@@ -44,3 +44,18 @@
 .list-items{
     font-family: Comic Sans MS, Comic Sans, cursive;
 }
+
+
+
+
+.mangatoread{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+   
+    
+}
